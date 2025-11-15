@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mw/gGWVECsxDv04/tquHXmiLnmP7B65a5m2cQ0dPBsLA65xzHCBi6LpH3JNVL+bY2si+8CO7CX0IXypeZKyzuA==",
+  "success": true,
+  "projectFilePath": "E:\\Jellyfin.Plugin.Stash\\DL.Getchu-main\\Jellyfin.Plugin.Stash\\DL_Getchu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RainbowRunner\\.nuget\\packages\\mediabrowser.common\\4.9.1.80\\mediabrowser.common.4.9.1.80.nupkg.sha512",
+    "C:\\Users\\RainbowRunner\\.nuget\\packages\\mediabrowser.server.core\\4.9.1.80\\mediabrowser.server.core.4.9.1.80.nupkg.sha512",
+    "C:\\Users\\RainbowRunner\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\9.0.0\\microsoft.codeanalysis.netanalyzers.9.0.0.nupkg.sha512",
+    "C:\\Users\\RainbowRunner\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\RainbowRunner\\.nuget\\packages\\standardsocketshttphandler\\2.2.0.8\\standardsocketshttphandler.2.2.0.8.nupkg.sha512",
+    "C:\\Users\\RainbowRunner\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
