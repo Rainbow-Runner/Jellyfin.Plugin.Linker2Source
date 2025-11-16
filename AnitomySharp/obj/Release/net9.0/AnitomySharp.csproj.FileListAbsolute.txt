@@ -1,0 +1,11 @@
+E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\AnitomySharp\bin\Release\net9.0\AnitomySharp.deps.json
+E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\AnitomySharp\bin\Release\net9.0\AnitomySharp.dll
+E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\AnitomySharp\bin\Release\net9.0\AnitomySharp.pdb
+E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\AnitomySharp\obj\Release\net9.0\AnitomySharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\AnitomySharp\obj\Release\net9.0\AnitomySharp.AssemblyInfoInputs.cache
+E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\AnitomySharp\obj\Release\net9.0\AnitomySharp.AssemblyInfo.cs
+E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\AnitomySharp\obj\Release\net9.0\AnitomySharp.csproj.CoreCompileInputs.cache
+E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\AnitomySharp\obj\Release\net9.0\AnitomySharp.dll
+E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\AnitomySharp\obj\Release\net9.0\refint\AnitomySharp.dll
+E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\AnitomySharp\obj\Release\net9.0\AnitomySharp.pdb
+E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\AnitomySharp\obj\Release\net9.0\ref\AnitomySharp.dll

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AnitomySharp.NET6</id>
+    <version>0.4.0</version>
+    <authors>tabratton,senritsu,chu-shen</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <description>AnitomySharp is a C# port of Anitomy by erengy, a library for parsing anime video filenames. All credit to erengy for the actual library and logic.
+        This fork of AnitomySharp is inspired by tabratton and senritsu, which adds more custom rules.</description>
+    <tags>Anitomy Anime</tags>
+    <repository type="git" url="https://github.com/chu-shen/AnitomySharp.git" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\AnitomySharp\bin\Debug\net9.0\AnitomySharp.dll" target="lib\net9.0\AnitomySharp.dll" />
+    <file src="E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\LICENSE" target="LICENSE" />
+    <file src="E:\Jellyfin.Plugin\jellyfin-plugin-DLGetchu-main\README.md" target="README.md" />
+  </files>
+</package>
