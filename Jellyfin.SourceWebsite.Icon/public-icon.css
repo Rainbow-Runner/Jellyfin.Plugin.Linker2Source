@@ -1,5 +1,39 @@
 /*----------hikka.io----------*/
 
+.itemExternalLinks a[href*="https://dl.getchu.com/"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://dl.getchu.com/"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Rainbow-Runner/Jellyfin.Plugin.Linker2Source@main/Jellyfin.SourceWebsite.Icon/icons/DL_Getchu/DL_Getchu_Favicon.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://dl.getchu.com/"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://dl.getchu.com/"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://dl.getchu.com/"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://dl.getchu.com/"] {
+	font-size: 0;
+}
+
+/*----------hikka.io----------*/
+
 .itemExternalLinks a[href*="hikka.io"] {
     background: none !important;
     color: transparent !important;
